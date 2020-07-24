@@ -1,6 +1,6 @@
 # Neurohackademy 2020: Introduction to the Structure and Geometry of the Human Brain
 
-**Author**: Noah C. Benson &lt;[nben@nyu.edu](mailto:nben@nyu.edu)&gt;
+**Author**: Noah C. Benson &lt;[nben@uw.edu](mailto:nben@uw.edu)&gt;
 
 This github repository encodes a tutorial on the geometry of the
 human brain, and how we represent data in the context of brain structure.
@@ -32,21 +32,21 @@ somethin like the following:
 
 ```
 ...
-Attaching to neurohackademy2019
-neurohackademy2019    | Executing the command: jupyter notebook
-neurohackademy2019    | [I 22:28:43.171 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
-neurohackademy2019    | [I 22:28:44.106 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
-neurohackademy2019    | [I 22:28:44.106 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
-neurohackademy2019    | [I 22:28:44.109 NotebookApp] Serving notebooks from local directory: /home/jovyan
-neurohackademy2019    | [I 22:28:44.110 NotebookApp] The Jupyter Notebook is running at:
-neurohackademy2019    | [I 22:28:44.110 NotebookApp] http://(58e2ccd31ba9 or 127.0.0.1):8888/?token=e2f1bd8b37c875799a77198bc240af1b32e1ebc967e04801
-neurohackademy2019    | [I 22:28:44.110 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-neurohackademy2019    | [C 22:28:44.116 NotebookApp]
-neurohackademy2019    |
-neurohackademy2019    |     To access the notebook, open this file in a browser:
-neurohackademy2019    |         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-7-open.html
-neurohackademy2019    |     Or copy and paste one of these URLs:
-neurohackademy2019    |         http://(58e2ccd31ba9 or 127.0.0.1):8888/?token=e2f1bd8b37c875799a77198bc240af1b32e1ebc967e04801
+Attaching to neurohackademy2020
+neurohackademy2020    | Executing the command: jupyter notebook
+neurohackademy2020    | [I 22:28:43.171 NotebookApp] Writing notebook server cookie secret to /home/jovyan/.local/share/jupyter/runtime/notebook_cookie_secret
+neurohackademy2020    | [I 22:28:44.106 NotebookApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+neurohackademy2020    | [I 22:28:44.106 NotebookApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+neurohackademy2020    | [I 22:28:44.109 NotebookApp] Serving notebooks from local directory: /home/jovyan
+neurohackademy2020    | [I 22:28:44.110 NotebookApp] The Jupyter Notebook is running at:
+neurohackademy2020    | [I 22:28:44.110 NotebookApp] http://(58e2ccd31ba9 or 127.0.0.1):8888/?token=e2f1bd8b37c875799a77198bc240af1b32e1ebc967e04801
+neurohackademy2020    | [I 22:28:44.110 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+neurohackademy2020    | [C 22:28:44.116 NotebookApp]
+neurohackademy2020    |
+neurohackademy2020    |     To access the notebook, open this file in a browser:
+neurohackademy2020    |         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-7-open.html
+neurohackademy2020    |     Or copy and paste one of these URLs:
+neurohackademy2020    |         http://(58e2ccd31ba9 or 127.0.0.1):8888/?token=e2f1bd8b37c875799a77198bc240af1b32e1ebc967e04801
 ```
 
 This final line is telling you how to connect to the notebook server. Basically, copy
