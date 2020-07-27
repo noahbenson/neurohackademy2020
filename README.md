@@ -7,7 +7,7 @@ human brain, and how we represent data in the context of brain structure.
 This tutorial was written for the 2020 Neurohackademy summer course at 
 the University of Washington.
 
-The tutorial is a notebook (`tutorial.ipynb` in this repository) that
+The tutorial is a notebook (`class-tutorial.ipynb` in this repository) that
 can be executed inside of a [docker](https://docker.com/) container. In order to
 run this tutorial, you will need to have docker installed. Optionally, if you want
 to examine a Human Connectome Project (HCP) subject instead of a FreeSurfer subject,
