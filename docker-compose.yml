@@ -2,7 +2,7 @@ version: '3'
 services:
    neurohackademy2020:
       container_name: neurohackademy2020
-      image: nben/neuropythy:latest
+      image: nben/neurohackademy2020:latest
       ports:
          - "8888:8888"
       environment:
